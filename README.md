@@ -27,3 +27,8 @@
 - Hard reset - перезапуск устройства и сброс его настроек. После Hard reset контроллер необходимо снова подключить к интернету/mqtt через страницу его настроек по адресу 192.168.4.1
 
 ## Клиент(Android-приложение)
+- Приложение можно собрать в Android Studio по инструкции https://github.com/IAlmostDeveloper/remote-control-android/blob/master/README.md
+- Готовый APK файл приложения лежит в репозитории: https://github.com/IAlmostDeveloper/samsung-iot-2020/blob/main/sources/Android%20Client/remote-control.apk
+
+### Использование
+
